@@ -45,4 +45,26 @@ The best example for this is Google’s self-driving car which I had discussed e
 Let’s say you are working in a telephone company and you need to establish a network by putting towers in a region. Then, you can use the clustering technique to find those tower locations which will ensure that all the users receive optimum signal strength.
 Let’s see how the proportion of above-described approaches differ for Data Analysis as well as Data Science. As you can see in the image below, Data Analysis includes descriptive analytics and prediction to a certain extent. On the other hand, Data Science is more about Predictive Causal Analytics and Machine Learning.
 
+I am sure you might have heard of Business Intelligence (BI) too. Often Data Science is confused with BI. I will state some concise and clear contrasts between the two which will help you in getting a better understanding. Let’s have a look.
+
+# Business Intelligence (BI) vs. Data Science
+BI basically analyzes the previous data to find hindsight and insight to describe the business trends. BI enables you to take data from external and internal sources, prepare it, run queries on it and create dashboards to answer the questions like quarterly revenue analysis or business problems. BI can evaluate the impact of certain events in the near future.
+Data Science is a more forward-looking approach, an exploratory way with the focus on analyzing the past or current data and predicting the future outcomes with the aim of making informed decisions. It answers the open-ended questions as to “what” and “how” events occur.
+Let’s have a look at some contrasting features.
+
+This was all about what is Data Science, now let’s understand the lifecycle of Data Science.
+
+A common mistake made in Data Science projects is rushing into data collection and analysis, without understanding the requirements or even framing the business problem properly. Therefore, it is very important for you to follow all the phases throughout the lifecycle of Data Science to ensure the smooth functioning of the project.
+
+# Lifecycle of Data Science
+Here is a brief overview of the main phases of the Data Science Lifecycle:
+
+#### ######  Phase 1—Discovery:
+Before you begin the project, it is important to understand the various specifications, requirements, priorities and required budget. You must possess the ability to ask the right questions. Here, you assess if you have the required resources present in terms of people, technology, time and data to support the project. In this phase, you also need to frame the business problem and formulate initial hypotheses (IH) to test.
+
+ 
+#### ###### Phase 2—Data preparation:
+In this phase, you require analytical sandbox in which you can perform analytics for the entire duration of the project. You need to explore, preprocess and condition data prior to modeling. Further, you will perform ETLT (extract, transform, load and transform) to get data into the sandbox. Let’s have a look at the Statistical Analysis flow below.
+
+
 
