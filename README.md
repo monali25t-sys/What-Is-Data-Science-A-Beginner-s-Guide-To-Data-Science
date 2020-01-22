@@ -4,10 +4,10 @@ As the world entered the era of big data, the need for its storage also grew. It
 
 In this blog, I will be covering the following topics.
 
-The need for Data Science.
-What is Data Science?
-How is it different from Business Intelligence (BI) and Data Analysis?
-The lifecycle of Data Science with the help of a use case.
+- The need for Data Science.
+- What is Data Science?
+- How is it different from Business Intelligence (BI) and Data Analysis?
+- The lifecycle of Data Science with the help of a use case.
 
 # Lets Understand Why We Need Data Science
 
@@ -146,6 +146,9 @@ This data has a lot of inconsistencies.
 - So, we will clean and preprocess this data by removing the outliers, filling up the null values and normalizing the data type. If you remember, this is our second phase which is data preprocessing.
 - Finally, we get the clean data as shown below which can be used for analysis.
 
+![https://github.com/monali25t-sys/What-Is-Data-Science-A-Beginner-s-Guide-To-Data-Science/blob/master/images.md/Data-Science-sample-consistent-data25.png](https://github.com/monali25t-sys/What-Is-Data-Science-A-Beginner-s-Guide-To-Data-Science/blob/master/images.md/Data-Science-sample-consistent-data25.png "https://github.com/monali25t-sys/What-Is-Data-Science-A-Beginner-s-Guide-To-Data-Science/blob/master/images.md/Data-Science-sample-consistent-data25.png")
+
+
 #### Step 3:
 
 Now let’s do some analysis as discussed earlier in Phase 3.
@@ -153,7 +156,6 @@ Now let’s do some analysis as discussed earlier in Phase 3.
 First, we will load the data into the analytical sandbox and apply various statistical functions on it. For example, R has functions like describe which gives us the number of missing values and unique values. We can also use the summary function which will give us statistical information like mean, median, range, min and max values.
 Then, we use visualization techniques like histograms, line graphs, box plots to get a fair idea of the distribution of data.
 
-![https://github.com/monali25t-sys/What-Is-Data-Science-A-Beginner-s-Guide-To-Data-Science/blob/master/images.md/Data-Science-sample-consistent-data25.png](https://github.com/monali25t-sys/What-Is-Data-Science-A-Beginner-s-Guide-To-Data-Science/blob/master/images.md/Data-Science-sample-consistent-data25.png "https://github.com/monali25t-sys/What-Is-Data-Science-A-Beginner-s-Guide-To-Data-Science/blob/master/images.md/Data-Science-sample-consistent-data25.png")
 
 
 #### Step 4:
