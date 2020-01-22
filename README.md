@@ -68,6 +68,8 @@ A common mistake made in Data Science projects is rushing into data collection a
 # Lifecycle of Data Science
 Here is a brief overview of the main phases of the Data Science Lifecycle:
 
+![https://github.com/monali25t-sys/What-Is-Data-Science-A-Beginner-s-Guide-To-Data-Science/blob/master/images.md/Lifecycle-of-Data-Science.png](https://github.com/monali25t-sys/What-Is-Data-Science-A-Beginner-s-Guide-To-Data-Science/blob/master/images.md/Lifecycle-of-Data-Science.png "https://github.com/monali25t-sys/What-Is-Data-Science-A-Beginner-s-Guide-To-Data-Science/blob/master/images.md/Lifecycle-of-Data-Science.png")
+
 #### Phase 1—Discovery:
 Before you begin the project, it is important to understand the various specifications, requirements, priorities and required budget. You must possess the ability to ask the right questions. Here, you assess if you have the required resources present in terms of people, technology, time and data to support the project. In this phase, you also need to frame the business problem and formulate initial hypotheses (IH) to test.
 
