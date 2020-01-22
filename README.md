@@ -99,6 +99,8 @@ In this phase, you will develop datasets for training and testing purposes. You 
 
 You can achieve model building through the following tools.
 
+![https://github.com/monali25t-sys/What-Is-Data-Science-A-Beginner-s-Guide-To-Data-Science/blob/master/images.md/Model-building-tools-Data-Science%2023.jpg](https://github.com/monali25t-sys/What-Is-Data-Science-A-Beginner-s-Guide-To-Data-Science/blob/master/images.md/Model-building-tools-Data-Science%2023.jpg "https://github.com/monali25t-sys/What-Is-Data-Science-A-Beginner-s-Guide-To-Data-Science/blob/master/images.md/Model-building-tools-Data-Science%2023.jpg")
+
 #### Phase 5—Operationalize: 
 Data Science operationalize - EdurekaIn this phase, you deliver final reports, briefings, code and technical documents. In addition, sometimes a pilot project is also implemented in a real-time production environment. This will provide you a clear picture of the performance and other related constraints on a small scale before full deployment.
 
