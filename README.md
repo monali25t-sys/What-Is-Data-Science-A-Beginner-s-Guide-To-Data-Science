@@ -81,4 +81,9 @@ Although, many tools are present in the market but R is the most commonly used t
 
 Now that you have got insights into the nature of your data and have decided the algorithms to be used. In the next stage, you will apply the algorithm and build up a model.
 
+#### Phase 4—Model building: 
+In this phase, you will develop datasets for training and testing purposes. You will consider whether your existing tools will suffice for running the models or it will need a more robust environment (like fast and parallel processing). You will analyze various learning techniques like classification, association and clustering to build the model.
+
+You can achieve model building through the following tools.
+
 
