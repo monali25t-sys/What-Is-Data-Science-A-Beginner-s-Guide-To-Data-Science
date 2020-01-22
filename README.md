@@ -38,6 +38,8 @@ First, let’s see what is Data Science. Data Science is a blend of various tool
 
 The answer lies in the difference between explaining and predicting.
 
+![https://github.com/monali25t-sys/What-Is-Data-Science-A-Beginner-s-Guide-To-Data-Science/blob/master/Data-Analyst-vs-Data-Science.png](https://github.com/monali25t-sys/What-Is-Data-Science-A-Beginner-s-Guide-To-Data-Science/blob/master/Data-Analyst-vs-Data-Science.png "https://github.com/monali25t-sys/What-Is-Data-Science-A-Beginner-s-Guide-To-Data-Science/blob/master/Data-Analyst-vs-Data-Science.png")
+
  As you can see from the above image, a Data Analyst usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.
 
 So, Data Science is primarily used to make decisions and predictions making use of predictive causal analytics, prescriptive analytics (predictive plus decision science) and machine learning.
