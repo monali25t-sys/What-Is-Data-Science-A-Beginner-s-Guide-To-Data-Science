@@ -130,6 +130,8 @@ As you can see, we have the various attributes as mentioned below.
 - age        –   Age
 - income   –   Income
 
+#### Step 2:
+
 Now, once we have the data, we need to clean and prepare the data for data analysis.
 This data has a lot of inconsistencies like missing values, blank columns, abrupt values and incorrect data format which need to be cleaned. Here, we have organized the data into a single table under different attributes – making it look more structured.
 Let’s have a look at the sample data below.
