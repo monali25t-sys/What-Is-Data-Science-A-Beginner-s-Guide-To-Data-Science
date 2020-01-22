@@ -85,6 +85,7 @@ Data Science model planning - EdurekaHere, you will determine the methods and te
 
 ![https://github.com/monali25t-sys/What-Is-Data-Science-A-Beginner-s-Guide-To-Data-Science/blob/master/images.md/Model-planning-tools-Data-Science.jpg](https://github.com/monali25t-sys/What-Is-Data-Science-A-Beginner-s-Guide-To-Data-Science/blob/master/images.md/Model-planning-tools-Data-Science.jpg "https://github.com/monali25t-sys/What-Is-Data-Science-A-Beginner-s-Guide-To-Data-Science/blob/master/images.md/Model-planning-tools-Data-Science.jpg")
 
+
 - R has a complete set of modeling capabilities and provides a good environment for building interpretive models.
 
 - SQL Analysis services can perform in-database analytics using common data mining functions and basic predictive models.
@@ -148,6 +149,8 @@ Now let’s do some analysis as discussed earlier in Phase 3.
 
 First, we will load the data into the analytical sandbox and apply various statistical functions on it. For example, R has functions like describe which gives us the number of missing values and unique values. We can also use the summary function which will give us statistical information like mean, median, range, min and max values.
 Then, we use visualization techniques like histograms, line graphs, box plots to get a fair idea of the distribution of data.
+
+![https://github.com/monali25t-sys/What-Is-Data-Science-A-Beginner-s-Guide-To-Data-Science/blob/master/images.md/Data-Science-sample-consistent-data25.png](https://github.com/monali25t-sys/What-Is-Data-Science-A-Beginner-s-Guide-To-Data-Science/blob/master/images.md/Data-Science-sample-consistent-data25.png "https://github.com/monali25t-sys/What-Is-Data-Science-A-Beginner-s-Guide-To-Data-Science/blob/master/images.md/Data-Science-sample-consistent-data25.png")
 
 
 #### Step 4:
