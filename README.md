@@ -9,6 +9,7 @@ The need for Data Science.
 What is Data Science?
 How is it different from Business Intelligence (BI) and Data Analysis?
 The lifecycle of Data Science with the help of a use case.
+
 # Lets Understand Why We Need Data Science
 
 Traditionally, the data that we had was mostly structured and small in size, which could be analyzed by using the simple BI tools. Unlike data in the traditional systems which was mostly structured, today most of the data is unstructured or semi-structured. Let’s have a look at the data trends in the image given below which shows that by 2020, more than 80 % of the data will be unstructured.
