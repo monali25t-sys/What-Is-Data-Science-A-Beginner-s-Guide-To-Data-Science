@@ -115,4 +115,18 @@ Now, once we have the data, we need to clean and prepare the data for data analy
 This data has a lot of inconsistencies like missing values, blank columns, abrupt values and incorrect data format which need to be cleaned. Here, we have organized the data into a single table under different attributes – making it look more structured.
 Let’s have a look at the sample data below.
 
+This data has a lot of inconsistencies.
+
+1. In the column npreg, “one” is written in words, whereas it should be in the numeric form like 1.
+2. In column bp one of the values is 6600 which is impossible (at least for humans) as bp cannot go up to such huge value.
+3. As you can see the Income column is blank and also makes no sense in predicting diabetes. Therefore, it is redundant to have it here and should be removed from the table.
+- So, we will clean and preprocess this data by removing the outliers, filling up the null values and normalizing the data type. If you remember, this is our second phase which is data preprocessing.
+- Finally, we get the clean data as shown below which can be used for analysis.
+
+#### Step 3:
+
+Now let’s do some analysis as discussed earlier in Phase 3.
+
+First, we will load the data into the analytical sandbox and apply various statistical functions on it. For example, R has functions like describe which gives us the number of missing values and unique values. We can also use the summary function which will give us statistical information like mean, median, range, min and max values.
+Then, we use visualization techniques like histograms, line graphs, box plots to get a fair idea of the distribution of data.
 
