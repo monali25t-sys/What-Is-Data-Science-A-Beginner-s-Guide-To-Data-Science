@@ -86,4 +86,33 @@ In this phase, you will develop datasets for training and testing purposes. You 
 
 You can achieve model building through the following tools.
 
+#### Phase 5—Operationalize: 
+Data Science operationalize - EdurekaIn this phase, you deliver final reports, briefings, code and technical documents. In addition, sometimes a pilot project is also implemented in a real-time production environment. This will provide you a clear picture of the performance and other related constraints on a small scale before full deployment.
+
+#### Phase 6—Communicate results: 
+Now it is important to evaluate if you have been able to achieve your goal that you had planned in the first phase. So, in the last phase, you identify all the key findings, communicate to the stakeholders and determine if the results of the project are a success or a failure based on the criteria developed in Phase 1.
+
+### Case Study: Diabetes Prevention
+What if we could predict the occurrence of diabetes and take appropriate measures beforehand to prevent it?
+In this use case, we will predict the occurrence of diabetes making use of the entire lifecycle that we discussed earlier. Let’s go through the various steps.
+
+#### Step 1:
+
+First, we will collect the data based on the medical history of the patient as discussed in Phase 1. You can refer to the sample data below.
+As you can see, we have the various attributes as mentioned below.
+
+####  Attributes:
+- npreg     –   Number of times pregnant
+- glucose   –   Plasma glucose concentration
+- bp          –   Blood pressure
+- skin        –   Triceps skinfold thickness
+- bmi        –   Body mass index
+- ped        –   Diabetes pedigree function
+- age        –   Age
+- income   –   Income
+
+Now, once we have the data, we need to clean and prepare the data for data analysis.
+This data has a lot of inconsistencies like missing values, blank columns, abrupt values and incorrect data format which need to be cleaned. Here, we have organized the data into a single table under different attributes – making it look more structured.
+Let’s have a look at the sample data below.
+
 
