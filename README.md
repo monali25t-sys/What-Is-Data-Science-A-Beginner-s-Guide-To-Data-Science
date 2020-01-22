@@ -132,6 +132,7 @@ Now, once we have the data, we need to clean and prepare the data for data analy
 This data has a lot of inconsistencies like missing values, blank columns, abrupt values and incorrect data format which need to be cleaned. Here, we have organized the data into a single table under different attributes – making it look more structured.
 Let’s have a look at the sample data below.
 
+![https://github.com/monali25t-sys/What-Is-Data-Science-A-Beginner-s-Guide-To-Data-Science/blob/master/images.md/Data-Science-Sample-inconsistent-data.png](https://github.com/monali25t-sys/What-Is-Data-Science-A-Beginner-s-Guide-To-Data-Science/blob/master/images.md/Data-Science-Sample-inconsistent-data.png "https://github.com/monali25t-sys/What-Is-Data-Science-A-Beginner-s-Guide-To-Data-Science/blob/master/images.md/Data-Science-Sample-inconsistent-data.png")
 This data has a lot of inconsistencies.
 
 1. In the column npreg, “one” is written in words, whereas it should be in the numeric form like 1.
