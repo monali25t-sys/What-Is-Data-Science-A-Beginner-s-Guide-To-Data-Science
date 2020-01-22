@@ -52,6 +52,8 @@ The best example for this is Google’s self-driving car which I had discussed e
 Let’s say you are working in a telephone company and you need to establish a network by putting towers in a region. Then, you can use the clustering technique to find those tower locations which will ensure that all the users receive optimum signal strength.
 Let’s see how the proportion of above-described approaches differ for Data Analysis as well as Data Science. As you can see in the image below, Data Analysis includes descriptive analytics and prediction to a certain extent. On the other hand, Data Science is more about Predictive Causal Analytics and Machine Learning.
 
+![https://github.com/monali25t-sys/What-Is-Data-Science-A-Beginner-s-Guide-To-Data-Science/blob/master/images.md/Data-Science-Analytics.jpg](https://github.com/monali25t-sys/What-Is-Data-Science-A-Beginner-s-Guide-To-Data-Science/blob/master/images.md/Data-Science-Analytics.jpg "https://github.com/monali25t-sys/What-Is-Data-Science-A-Beginner-s-Guide-To-Data-Science/blob/master/images.md/Data-Science-Analytics.jpg")
+
 I am sure you might have heard of Business Intelligence (BI) too. Often Data Science is confused with BI. I will state some concise and clear contrasts between the two which will help you in getting a better understanding. Let’s have a look.
 
 # Business Intelligence (BI) vs. Data Science
