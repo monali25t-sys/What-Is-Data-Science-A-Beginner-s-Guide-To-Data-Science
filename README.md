@@ -27,6 +27,8 @@ This is not the only reason why Data Science has become so popular. Let’s dig 
 
 Let’s have a look at the below infographic to see all the domains where Data Science is creating its impression.
 
+![https://github.com/monali25t-sys/What-Is-Data-Science-A-Beginner-s-Guide-To-Data-Science/blob/master/images.md/Data-Science-use-cases.png](https://github.com/monali25t-sys/What-Is-Data-Science-A-Beginner-s-Guide-To-Data-Science/blob/master/images.md/Data-Science-use-cases.png "https://github.com/monali25t-sys/What-Is-Data-Science-A-Beginner-s-Guide-To-Data-Science/blob/master/images.md/Data-Science-use-cases.png")
+
 Now that you have understood the need of Data Science, let’s understand what is Data Science.
 
 # What is Data Science?
