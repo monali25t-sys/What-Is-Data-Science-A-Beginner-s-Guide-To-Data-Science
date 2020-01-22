@@ -13,6 +13,8 @@ The lifecycle of Data Science with the help of a use case.
 
 Traditionally, the data that we had was mostly structured and small in size, which could be analyzed by using the simple BI tools. Unlike data in the traditional systems which was mostly structured, today most of the data is unstructured or semi-structured. Let’s have a look at the data trends in the image given below which shows that by 2020, more than 80 % of the data will be unstructured.
 
+![https://github.com/monali25t-sys/What-Is-Data-Science-A-Beginner-s-Guide-To-Data-Science/blob/master/images.md/Flow-of-unstructured-data.png](https://github.com/monali25t-sys/What-Is-Data-Science-A-Beginner-s-Guide-To-Data-Science/blob/master/images.md/Flow-of-unstructured-data.png "https://github.com/monali25t-sys/What-Is-Data-Science-A-Beginner-s-Guide-To-Data-Science/blob/master/images.md/Flow-of-unstructured-data.png")
+
 This data is generated from different sources like financial logs, text files, multimedia forms, sensors, and instruments. Simple BI tools are not capable of processing this huge volume and variety of data. This is why we need more complex and advanced analytical tools and algorithms for processing, analyzing and drawing meaningful insights out of it.
 
 This is not the only reason why Data Science has become so popular. Let’s dig deeper and see how Data Science is being used in various domains.
