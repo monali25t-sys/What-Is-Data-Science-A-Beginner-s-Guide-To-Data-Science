@@ -114,6 +114,8 @@ In this use case, we will predict the occurrence of diabetes making use of the e
 #### Step 1:
 
 First, we will collect the data based on the medical history of the patient as discussed in Phase 1. You can refer to the sample data below.
+
+![https://github.com/monali25t-sys/What-Is-Data-Science-A-Beginner-s-Guide-To-Data-Science/blob/master/images.md/Data-Science-lifecycle-Sample-data.png](https://github.com/monali25t-sys/What-Is-Data-Science-A-Beginner-s-Guide-To-Data-Science/blob/master/images.md/Data-Science-lifecycle-Sample-data.png "https://github.com/monali25t-sys/What-Is-Data-Science-A-Beginner-s-Guide-To-Data-Science/blob/master/images.md/Data-Science-lifecycle-Sample-data.png")
 As you can see, we have the various attributes as mentioned below.
 
 ####  Attributes:
