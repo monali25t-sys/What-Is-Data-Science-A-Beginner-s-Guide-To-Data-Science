@@ -59,12 +59,11 @@ A common mistake made in Data Science projects is rushing into data collection a
 # Lifecycle of Data Science
 Here is a brief overview of the main phases of the Data Science Lifecycle:
 
-#### ######  Phase 1—Discovery:
+#### Phase 1—Discovery:
 Before you begin the project, it is important to understand the various specifications, requirements, priorities and required budget. You must possess the ability to ask the right questions. Here, you assess if you have the required resources present in terms of people, technology, time and data to support the project. In this phase, you also need to frame the business problem and formulate initial hypotheses (IH) to test.
 
  
-#### ###### Phase 2—Data preparation:
+####  Phase 2—Data preparation:
 In this phase, you require analytical sandbox in which you can perform analytics for the entire duration of the project. You need to explore, preprocess and condition data prior to modeling. Further, you will perform ETLT (extract, transform, load and transform) to get data into the sandbox. Let’s have a look at the Statistical Analysis flow below.
-
 
 
