@@ -130,3 +130,27 @@ Now let’s do some analysis as discussed earlier in Phase 3.
 First, we will load the data into the analytical sandbox and apply various statistical functions on it. For example, R has functions like describe which gives us the number of missing values and unique values. We can also use the summary function which will give us statistical information like mean, median, range, min and max values.
 Then, we use visualization techniques like histograms, line graphs, box plots to get a fair idea of the distribution of data.
 
+
+#### Step 4:
+
+Now, based on insights derived from the previous step, the best fit for this kind of problem is the decision tree. Let’s see how?
+
+- Since, we already have the major attributes for analysis like npreg, bmi, etc., so we will use supervised learning technique to build a model here.
+- Further, we have particularly used decision tree because it takes all attributes into consideration in one go, like the ones which have a linear relationship as well as those which have a non-linear relationship. In our case, we have a linear relationship between npreg and age, whereas the nonlinear relationship between npreg and ped.
+- Decision tree models are also very robust as we can use the different combination of attributes to make various trees and then finally implement the one with the maximum efficiency.
+- Let’s have a look at our decision tree.
+
+Here, the most important parameter is the level of glucose, so it is our root node. Now, the current node and its value determine the next important parameter to be taken. It goes on until we get the result in terms of pos or neg. Pos means the tendency of having diabetes is positive and neg means the tendency of having diabetes is negative.
+
+If you want to learn more about the implementation of the decision tree, refer this blog How To Create A Perfect Decision Tree
+
+#### Step 5:
+
+In this phase, we will run a small pilot project to check if our results are appropriate. We will also look for performance constraints if any. If the results are not accurate, then we need to replan and rebuild the model.
+
+#### Step 6:
+
+Once we have executed the project successfully, we will share the output for full deployment.
+
+Being a Data Scientist is easier said than done. So, let’s see what all you need to be a Data Scientist.  A Data Scientist requires skills basically from three major areas as shown below.
+
