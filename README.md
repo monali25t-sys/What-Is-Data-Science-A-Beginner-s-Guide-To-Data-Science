@@ -71,4 +71,14 @@ You can use R for data cleaning, transformation, and visualization. This will he
 #### Phase 3—Model planning:
 Data Science model planning - EdurekaHere, you will determine the methods and techniques to draw the relationships between variables. These relationships will set the base for the algorithms which you will implement in the next phase. You will apply Exploratory Data Analytics (EDA) using various statistical formulas and visualization tools.
 
+- R has a complete set of modeling capabilities and provides a good environment for building interpretive models.
+
+- SQL Analysis services can perform in-database analytics using common data mining functions and basic predictive models.
+
+- SAS/ACCESS  can be used to access data from Hadoop and is used for creating repeatable and reusable model flow diagrams.
+
+Although, many tools are present in the market but R is the most commonly used tool.
+
+Now that you have got insights into the nature of your data and have decided the algorithms to be used. In the next stage, you will apply the algorithm and build up a model.
+
 
