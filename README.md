@@ -82,6 +82,8 @@ You can use R for data cleaning, transformation, and visualization. This will he
 #### Phase 3—Model planning:
 Data Science model planning - EdurekaHere, you will determine the methods and techniques to draw the relationships between variables. These relationships will set the base for the algorithms which you will implement in the next phase. You will apply Exploratory Data Analytics (EDA) using various statistical formulas and visualization tools.
 
+![https://github.com/monali25t-sys/What-Is-Data-Science-A-Beginner-s-Guide-To-Data-Science/blob/master/images.md/Model-planning-tools-Data-Science.jpg](https://github.com/monali25t-sys/What-Is-Data-Science-A-Beginner-s-Guide-To-Data-Science/blob/master/images.md/Model-planning-tools-Data-Science.jpg "https://github.com/monali25t-sys/What-Is-Data-Science-A-Beginner-s-Guide-To-Data-Science/blob/master/images.md/Model-planning-tools-Data-Science.jpg")
+
 - R has a complete set of modeling capabilities and provides a good environment for building interpretive models.
 
 - SQL Analysis services can perform in-database analytics using common data mining functions and basic predictive models.
