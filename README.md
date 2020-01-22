@@ -154,3 +154,5 @@ Once we have executed the project successfully, we will share the output for ful
 
 Being a Data Scientist is easier said than done. So, let’s see what all you need to be a Data Scientist.  A Data Scientist requires skills basically from three major areas as shown below.
 
+As you can see in the above image, you need to acquire various hard skills and soft skills. You need to be good at statistics and mathematics to analyze and visualize data. Needless to say, Machine Learning forms the heart of Data Science and requires you to be good at it. Also, you need to have a solid understanding of the domain you are working in to understand the business problems clearly. Your task does not end here. You should be capable of implementing various algorithms which require good coding skills. Finally, once you have made certain key decisions, it is important for you to deliver them to the stakeholders. So, good communication will definitely add brownie points to your skills.
+
